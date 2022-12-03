@@ -1,0 +1,33 @@
+Team,pred_mean,rank_mean,O_Rank,D_rank
+Kansas City Chiefs,0.141070642,1.1,2,6
+New Orleans Saints,0.14092679,2.3,4,8
+Los Angeles Rams,0.140892984,3.25,19,3
+Indianapolis Colts,0.140791513,4.65,9,13
+Buffalo Bills,0.140788121,5,6,14
+Tampa Bay Buccaneers,0.140707937,5.65,5,7
+Pittsburgh Steelers,0.140616785,7.1,12,2
+Green Bay Packers,0.14056421,7.65,1,16
+Seattle Seahawks,0.140382496,9.7,7,12
+Arizona Cardinals,0.140344086,10.45,10,15
+Miami Dolphins,0.140329778,10.75,15,1
+San Francisco 49ers,0.140171275,12.05,20,17
+Baltimore Ravens,0.140093307,13.95,8,4
+Washington Football Team,0.140029337,14.85,26,5
+Tennessee Titans,0.140009717,14.95,3,23
+Las Vegas Raiders,0.139982265,15.55,11,29
+Los Angeles Chargers,0.13993824,16.6,22,24
+Chicago Bears,0.139895399,17.85,18,9
+Atlanta Falcons,0.139822369,19.45,17,19
+New England Patriots,0.139777439,20.45,28,11
+Minnesota Vikings,0.139774866,19.75,13,28
+Cleveland Browns,0.139760851,20.75,14,21
+Carolina Panthers,0.139550962,23.25,23,18
+Dallas Cowboys,0.139511791,23.3,16,30
+New York Giants,0.139260314,25.45,31,10
+Cincinnati Bengals,0.139213577,25.75,27,20
+Houston Texans,0.138984944,27.05,21,26
+Denver Broncos,0.138950227,27.55,30,25
+Philadelphia Eagles,0.13880894,29.1,25,22
+Detroit Lions,0.138696944,29.75,24,32
+New York Jets,0.138388347,31.25,32,27
+Jacksonville Jaguars,0.138231925,31.75,29,31
